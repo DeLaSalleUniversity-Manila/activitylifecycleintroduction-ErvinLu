@@ -1,5 +1,7 @@
 # ActivityLifecycle
 
+activitylifecycleintroduction-ErvinLu
+
 Problem:
 
 Implement an Android application that displays Logs in Logcat when the following methods are called:
